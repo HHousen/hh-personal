@@ -1,4 +1,4 @@
-baseURL = "https://haydenhousen.com/"
+baseURL = "http://haydenhousen.com/"
 languageCode = "en-us"
 title = "Hayden Housen | Student Developer"
 theme = "aerial"
