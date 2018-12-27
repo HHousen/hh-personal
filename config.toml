@@ -2,6 +2,7 @@ baseURL = "http://haydenhousen.com/"
 languageCode = "en-us"
 title = "Hayden Housen | Student Developer"
 theme = "aerial"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
   name = "Hayden Housen"
