@@ -1,11 +1,11 @@
 [
   {
       "grouping":"Front-End Development",
-      "skills":[ "HTML","CSS","JavaScript","jQuery","SASS","DOM","Bootstrap Framework","JSON APIs","AJAX","Gulp"]
+      "skills":[ "HTML5","CSS3","JavaScript","jQuery","SASS","DOM","Bootstrap","JSON APIs","AJAX","Gulp"]
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","git","Linux","Windows","bash","php","jquery","Atom","Node.js","NPM"]
+      "skills":[ "Java","git","Linux","Windows","bash","php","jquery","Atom","Nodejs","NPM"]
   },
   {
       "grouping":"Architecture & Concepts",
