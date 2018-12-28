@@ -1,33 +1,48 @@
 baseURL = "http://haydenhousen.com/"
 languageCode = "en-us"
 title = "Hayden Housen | Student Developer"
-theme = "aerial"
+theme = "resume"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+enableRobotsTXT = true
 
 [params]
-  name = "Hayden Housen"
-  about = "Student Pawling High School &nbsp;&bull;&nbsp; Programmer & Developer &nbsp;&bull;&nbsp; Diligent Worker"
-  copyright = "Hayden Housen"
-  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
-  favicon = "favicon.png"
+    firstName = "Hayden"
+    lastName = "Housen"
+    address = "Pawling, NY"
+    profileImage = "img/hh-logo.png"
+    email = "hayden@haydenhousen.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "img/favicon.png"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
+
+
 
 [[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "https://twitter.com/thehaydenhousen"
-
-[[params.social]]
-  medium = "CodePen"
-  icon = "codepen"
+  name = "CodePen"
+  icon = "fab fa-codepen"
   link = "https://codepen.io/HHousen"
 
 [[params.social]]
-  medium = "Github"
-  icon = "github"
+  name = "Twitter"
+  icon = "fab fa-twitter"
+  link = "https://twitter.com/thehaydenhousen"
+
+[[params.social]]
+  name = "Github"
+  icon = "fab fa-github"
   link = "https://github.com/HHousen"
 
 [[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
+  name = "Email"
+  icon = "fas fa-envelope"
   link = "mailto:hayden@haydenhousen.com"
