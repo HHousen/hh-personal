@@ -1,4 +1,4 @@
-baseURL = "http://haydenhousen.com/"
+baseURL = "https://haydenhousen.com/"
 languageCode = "en-us"
 title = "Hayden Housen | Student Developer"
 theme = "resume"
@@ -22,8 +22,8 @@ enableRobotsTXT = true
     showEducation = true
 
 
-[params.google.analytics]
-    trackerID = "XX-123446-01"
+[params.google_analytics]
+    trackerID = ""
 
 
 
