@@ -5,11 +5,11 @@
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","git","Linux","Windows","bash","php","jquery","Atom","Nodejs","NPM"]
+      "skills":[ "Java","git","Linux","Windows","bash","php","jQuery","Atom","Nodejs","NPM","VSCode", "Jupyter Notebook"]
   },
   {
       "grouping":"Architecture & Concepts",
-      "skills":[ "CI/CD (Travis CI, Netlify)", "DNS", "Firewalls", "Containers", "OOP", "Networking","DevOps"]
+      "skills":[ "CI/CD (Travis CI, Netlify)","DNS","Firewalls","Containers","OOP","Networking","DevOps", "CNNs", "GANs"]
   },
   {
       "grouping":"Platform Development & Administration",

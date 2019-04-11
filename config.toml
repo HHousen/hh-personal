@@ -1,8 +1,8 @@
 baseURL = "https://haydenhousen.com/"
 languageCode = "en-us"
-title = "Hayden Housen | Student Developer"
+title = "Hayden Housen - Student Developer"
 theme = "resume"
-disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+disableKinds = ["RSS"]
 enableRobotsTXT = true
 
 [params]
@@ -11,13 +11,14 @@ enableRobotsTXT = true
     address = "Pawling, NY"
     profileImage = "img/hh-logo.png"
     email = "hayden@haydenhousen.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    description = "High school sophomore with extensive experience in computer science. Possesses impeccable organizational skills and excellent knowledge of programming languages. Is a diligent and dedicated individual that never gives up, works hard in all situations, and excels at every challenge he faces."
     favicon = "img/favicon.png"
     # what sections
     showSkills = true
     showProjects = true
-    showOpenSource = true
-    showPublications = true
+    tags = ["DevOps", "Web Development", "Data Science"]
+    showContributions = false
+    showPublications = false
     showExperience = true
     showEducation = true
 

@@ -1,20 +1,35 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "title":"Computer Vision with Machine Learning",
+        "subtitle":"Fast.ai, Stanford Online, Linear Algebra Courses",
+        "summary":["Working towards research in Computer Vision. Learning about machine learning though Fast.ai ML course and Stanford CS231n online."],
+        "range":"June 2018 – May 2019"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "title":"Johns Hopkins Center for Talented Youth (CTY)",
+        "subtitle":"",
+        "summary":["Completed “Introduction to Java” and “Advanced Java” courses. I also took AP Computer Science A though CTY."],
+        "range":"June 2018 – May 2019"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "title":"National Computer Camps (NCC)",
+        "subtitle":"",
+        "summary":["Completed java challenges and projects"],
+        "range":"July 2017"
+    },
+    {
+        "title":"FreeCodeCamp",
+        "subtitle":"Awarded Front End Development Certificate",
+        "summary":["Completed about 400 hours of coursework. Built 10 front-end projects. Completed 347 coding challenges."],
+        "range":"Feb 2017 – Sept 2017"
+    },
+    {
+        "title":"Various Online Computer Courses",
+        "subtitle":"Lynda.com/Udacity/CodeCademy",
+        "summary": ["Lynda.com: 19 courses completed including the “Programming Foundations” series by Simon Allardice",
+          "Udacity: Completed several courses about JavaScript, Android, Web Design, and Networking",
+          "CodeCademy: Completed various tutorials involving basic web development"
+        ],
+        "range":"June 2016 – Present"
     }
 ]
