@@ -3,4 +3,4 @@
 	url = https://github.com/sethmacleod/aerial.git
 [submodule "themes/resume"]
 	path = themes/resume
-	url = git@github.com:HHousen/hugo-resume.git
+	url = https://github.com/HHousen/hugo-resume.git
