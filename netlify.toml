@@ -6,7 +6,9 @@ command = "hugo --gc --minify"
 HUGO_VERSION = "0.55.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+RUBY_VERSION = "2.6.2"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.55.0"
 HUGO_ENABLEGITINFO = "true"
+RUBY_VERSION = "2.6.2"
