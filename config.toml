@@ -18,6 +18,7 @@ enableGitInfo = true
     email = "hayden@haydenhousen.com"
     description = "High school sophomore with extensive experience in computer science. Possesses impeccable organizational skills and excellent knowledge of programming languages. Is a diligent and dedicated individual that never gives up, works hard in all situations, and excels at every challenge he faces."
     favicon = "img/favicon.png"
+    resumePDF = "pdf/Hayden_Housen_Resume_V2.0.pdf"
     # what sections
     showSkills = true
     showProjects = true
