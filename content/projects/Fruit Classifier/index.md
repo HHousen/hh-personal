@@ -3,7 +3,7 @@ title: "Fruit Classifier with ML"
 date: 2018-12-31T14:00:18-05:00
 featured: true
 description: "Working towards research in Computer Vision. Learning about machine learning though Fast.ai ML course and Stanford CS231n online."
-tags: ["Data Science"]
+tags: ["Machine Learning"]
 resources:
 - name: "image"
   src: "banana.png"

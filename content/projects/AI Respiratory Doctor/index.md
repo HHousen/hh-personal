@@ -3,7 +3,7 @@ title: "AI Respiratory Doctor"
 date: 2019-07-08T13:35:48-04:00
 featured: true
 description: "A flask web app template for use with machine learning projects. Currently contains complete example code to run a fully functional X-Ray diagnosis AI."
-tags: ["Data Science", "Web Development"]
+tags: ["Machine Learning", "Web Development"]
 resources:
 - name: "image"
   src: "doctor.png"

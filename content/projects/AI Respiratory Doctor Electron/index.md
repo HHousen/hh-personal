@@ -3,7 +3,7 @@ title: "AI Respiratory Doctor Desktop App"
 date: 2019-09-01T16:49:26-04:00
 featured: true
 description: "A desktop app built with Electron that mimics the AI Respiratory Doctor web app."
-tags: ["Data Science", "Web Development", "App Development"]
+tags: ["Machine Learning", "Web Development", "App Development"]
 resources:
 - name: "image"
   src: "doctor.png"

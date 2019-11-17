@@ -16,13 +16,13 @@ enableGitInfo = true
     profileImage = "img/hh-logo.png"
     gitCommitPrefix = "https://github.com/HHousen/hh-personal"
     email = "hayden@haydenhousen.com"
-    description = "High school sophomore with extensive experience in computer science. Possesses impeccable organizational skills and excellent knowledge of programming languages. Is a diligent and dedicated individual that never gives up, works hard in all situations, and excels at every challenge he faces."
+    description = "High school junior with extensive experience in computer science. Possesses impeccable organizational skills and excellent knowledge of programming languages. Is a diligent and dedicated individual that never gives up. Currently is conducting research in the fields of machine learning and computer vision. Enjoys running cross country in the fall and skiing in the winter."
     favicon = "img/favicon.png"
     resumePDF = "pdf/Hayden_Housen_Resume_V2.0.pdf"
     # what sections
     showSkills = true
     showProjects = true
-    tags = ["DevOps", "Web Development", "Data Science", "App Development", "Cyber Security"]
+    tags = ["DevOps", "Web Development", "Machine Learning", "App Development", "Cyber Security"]
     showContributions = false
     showPublications = false
     showExperience = true

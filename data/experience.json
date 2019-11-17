@@ -1,8 +1,14 @@
 [
     {
         "title":"Computer Vision with Machine Learning",
-        "subtitle":"Fast.ai, Stanford Online, Linear Algebra Courses",
-        "summary":["Working towards research in Computer Vision. Learning about machine learning though Fast.ai ML course and Stanford CS231n online."],
+        "subtitle":"Self-Learning with PyTorch",
+        "summary":["Working towards research in Computer Vision. Using PyTorch for advanced feature extraction with a modified pretrained ResNet and scikit-learn for clustering."],
+        "range":"June 2018 – May 2019"
+    },
+    {
+        "title":"Fast.ai",
+        "subtitle":"Machine Learning Fundamentals",
+        "summary":["Completed part 1. Developed an understanding for advanced machine learning concepts such as GANs. Built AI Respiratory Doctor."],
         "range":"June 2018 – May 2019"
     },
     {
