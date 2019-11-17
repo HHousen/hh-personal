@@ -5,7 +5,7 @@
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","git","Linux","Windows","bash","php","jQuery","Atom","Nodejs","NPM","VSCode", "Jupyter Notebook" ]
+      "skills":[ "Java","Python,","git","Linux","Windows","bash","php","jQuery","Atom","Nodejs","NPM","VSCode", "Jupyter Notebook" ]
   },
   {
       "grouping":"Architecture & Concepts",
@@ -17,6 +17,6 @@
   },
   {
     "grouping":"AI & Machine Learning",
-    "skills":[ "PyTorch", "fastai", "scikit-learn", "CNNs", "GANs", "Transfer Learning", "Feature Extraction", "ResNets", "Image Classification", "Clustering"]
+    "skills":[ "PyTorch","fastai","scikit-learn","CNNs","GANs","Transfer Learning","Feature Extraction","ResNets","Image Classification","Clustering"]
   }
 ]
