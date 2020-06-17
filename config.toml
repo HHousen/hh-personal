@@ -40,6 +40,11 @@ enableGitInfo = true
   link = "https://codepen.io/HHousen"
 
 [[params.social]]
+  name = "Sourcerer"
+  icon = "fas fa-code-branch"
+  link = "https://sourcerer.io/HHousen"
+
+[[params.social]]
   name = "Twitter"
   icon = "fab fa-twitter"
   link = "https://twitter.com/thehaydenhousen"
