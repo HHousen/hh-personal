@@ -1,0 +1,148 @@
+#
+#. This config file adds support for Netlify CMS, exposed at /admin on the running site.
+# In order to use this on your site,
+#. 1) replace instances of "exampleSite/......" with the appropriate paths, relative from repository root.
+#. 2) replace repo path in `backend` settings, and set branch to master.
+#  3) Optionally enable the [editor workflow](https://www.netlifycms.org/docs/configuration-options/#publish-mode) which uses PRs for content changes
+#  4) Optionally enable [open authoring](https://www.netlifycms.org/docs/open-authoring/) for community sites, which requires #3
+#  
+#
+
+
+
+backend:
+  name: github
+  repo: HHousen/hh-personal
+  branch: master
+
+
+media_folder: "static/media" # Folder where user uploaded files should go
+public_folder: "/media"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "projects" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Project" # Used in the UI, ie.: "New Post"
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    folder: "content/projects" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}     
+      - {label: "Publish Date", name: "date", widget: "datetime"} 
+      - {label: "featured", name: "featured", default: true, widget: "boolean"}
+      - {label: "link to project repo or site", name: "link", widget: "string"}
+      - label: "Resources"
+        name: "resources"
+        widget: "list"
+        fields:
+          - {label: Name, name: name, widget: "string", default: "image"}
+          - {label: Image, name: src, widget: "image"}
+      - {label: "Brief description", name: "description", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "weight (lower get more visibility)", name: "weight", widget: "number", default: 500, valueType: float, step: 10, min: 0, max: 1000}
+      - {label: "Sitemap", name: "sitemap", widget: "object", field: {label: priority, name: priority, widget: "number", default: 0.8, valueType: float, step: 0.1, min: 0.0, max: 1.0}}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: 'settings'
+    label: 'Settings'
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: 'general'
+        label: 'Site Settings'
+        file: 'config.toml'
+        extension: toml
+        description: 'General Site Settings'
+        fields:
+          - { label: 'Global title', name: 'title', widget: 'string' }
+          - { label: 'Site Url', name: 'baseURL', widget: 'string' }
+          - { label: 'Theme', name: 'theme', widget: 'hidden', default: "hugo-resume" }
+          - { label: 'Language Code', name: 'languageCode', widget: 'hidden', default: "en-us" }
+          - { label: 'Show Git Commit Info', name: 'enableGitInfo', widget: 'boolean', required: false }
+          # - { label: 'PygmentCodeFences', name: 'PygmentsCodeFences', widget: 'boolean', required: false }
+          # - { label: 'PygmentCodeFencesGuessSyntax', name: 'PygmentsCodeFencesGuessSyntax', widget: 'boolean', required: false }
+          # - { label: 'PygmentCodeFencesGuessSyntax', name: 'PygmentsStyle', widget: 'string' }
+          - label: 'Params'
+            name: 'params'
+            widget: 'object'
+            fields: 
+              - { label: 'First Name', name: 'firstName', widget: 'string' }
+              - { label: 'Last Name', name: 'lastName', widget: 'string' }
+              - { label: 'address', name: 'address', widget: 'string' }
+              - { label: 'profileImage', name: 'profileImage', widget: 'image' }
+              - { label: 'gitCommitPrefix', name: 'gitCommitPrefix', widget: 'string' }
+              - { label: 'email', name: 'email', widget: 'string' }
+              - { label: 'description', name: 'description', widget: 'string' }
+              - { label: 'resumePDF', name: 'resumePDF', widget: 'file' }
+              - label: 'Social Handles'
+                name: 'social'
+                widget: 'list'
+                fields: 
+                  - { label: 'Name', name: 'name', widget: 'string' }
+                  - { label: 'Icon', name: 'icon', widget: 'string' }
+                  - { label: 'Link', name: 'link', widget: 'string' }
+
+              - { label: 'showSkills', name: 'showSkills', widget: 'boolean', required: false }
+              - { label: 'showProjects', name: 'showProjects', widget: 'boolean', required: false }
+              - { label: 'showContributions', name: 'showContributions', widget: 'boolean', required: false }
+              - { label: 'showExperience', name: 'showExperience', widget: 'boolean', required: false }
+              - { label: 'showEducation', name: 'showEducation', widget: 'boolean', required: false }
+              - { label: 'favicon', name: 'favicon', widget: 'image' }
+              - label: 'Google Analytics'
+                name: 'google_analytics'
+                widget: 'object'
+                fields: 
+                  - { label: 'trackerID', name: 'trackerID', widget: 'string'}
+
+          - { label: 'taxonomies', name: 'taxonomies', widget: 'object', field: {name: 'tag', label: 'tag' , widget: string, default: ['tags'] }}
+
+  - name: 'data'
+    label: 'Data'
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: 'education'
+        label: 'Education'
+        file: 'data/education.json'
+        extension: json
+        description: 'Education'
+        fields:
+          - label: 'Schools'
+            name: 'schools'
+            widget: 'list'
+            fields: 
+              - { label: 'School', name: 'school', widget: 'markdown' }
+              - { label: 'Degree', name: 'degree', widget: 'string' }
+              - { label: 'Major', name: 'major', widget: 'string' }
+              - { label: 'Range', name: 'range', widget: 'string' }
+      
+      - name: 'experience'
+        label: 'Experience'
+        file: 'data/experience.json'
+        extension: json
+        description: 'Experience'
+        fields:
+          - label: 'Experiences'
+            name: 'experiences'
+            widget: 'list'
+            fields: 
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
+              - { label: 'Summary', name: 'summary', widget: 'markdown' }
+              - { label: 'Range', name: 'range', widget: 'string' }
+      
+      - name: 'skills'
+        label: 'Skills'
+        file: 'data/skills.json'
+        extension: json
+        description: 'Skills'
+        fields:
+          - label: 'Skills'
+            name: 'skills'
+            widget: 'list'
+            fields: 
+              - { label: 'Grouping', name: 'grouping', widget: 'string' }
+              - { label: 'Skills', name: 'skills', widget: 'list' }

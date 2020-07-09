@@ -1,22 +1,23 @@
-[
-  {
-    "grouping":"Front-End Development",
-    "skills":[ "HTML5","CSS3","JavaScript","jQuery","SASS","DOM","Bootstrap","JSON APIs","AJAX","Gulp" ]
-  },
-  {
-    "grouping":"Languages, Operating Systems & Tools",
-    "skills":[ "Java","Python,","git","Linux","Windows","bash","php","jQuery","Atom","Nodejs","NPM","VSCode", "Jupyter Notebook" ]
-  },
-  {
-    "grouping":"Architecture & Concepts",
-    "skills":[ "CI/CD (Travis CI, Netlify)","DNS","Firewalls","Containers","OOP","Networking","DevOps" ]
-  },
-  {
-    "grouping":"Platform Development & Administration",
-    "skills":[ "Kanban","HUGO","GitHub","Apache","MySQL","WordPress","Docker" ]
-  },
-  {
-    "grouping":"AI & Machine Learning",
-    "skills":[ "PyTorch","fastai","scikit-learn","CNNs","GANs","Transfer Learning","Feature Extraction","NLP","Summarization","Image Classification","Clustering","Hyperparameter Optimization"]
-  }
-]
+{
+    "members": [{
+            "grouping": "Front-End Development",
+            "skills": ["HTML5", "CSS3", "JavaScript", "jQuery", "SASS", "DOM", "Bootstrap", "JSON APIs", "AJAX", "Gulp"]
+        },
+        {
+            "grouping": "Languages, Operating Systems & Tools",
+            "skills": ["Java", "Python,", "git", "Linux", "Windows", "bash", "php", "jQuery", "Atom", "Nodejs", "NPM", "VSCode", "Jupyter Notebook"]
+        },
+        {
+            "grouping": "Architecture & Concepts",
+            "skills": ["CI/CD (Travis CI, Netlify)", "DNS", "Firewalls", "Containers", "OOP", "Networking", "DevOps"]
+        },
+        {
+            "grouping": "Platform Development & Administration",
+            "skills": ["Kanban", "HUGO", "GitHub", "Apache", "MySQL", "WordPress", "Docker"]
+        },
+        {
+            "grouping": "AI & Machine Learning",
+            "skills": ["PyTorch", "fastai", "scikit-learn", "CNNs", "GANs", "Transfer Learning", "Feature Extraction", "NLP", "Summarization", "Image Classification", "Clustering", "Hyperparameter Optimization"]
+        }
+    ]
+}
