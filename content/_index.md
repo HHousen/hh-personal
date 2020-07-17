@@ -6,7 +6,7 @@ sitemap:
   priority : 1.0
 ---
 
-High school junior with extensive experience in computer science. Possesses impeccable organizational skills and excellent knowledge of programming languages. Is a diligent and dedicated individual that never gives up. Currently is conducting research in the fields of machine learning, computer vision and Natural Language Processing. Enjoys running cross country in the fall and skiing in the winter.
+High school senior with extensive experience in computer science. Possesses impeccable organizational skills and excellent knowledge of programming languages. Is a diligent and dedicated individual that never gives up. Currently is conducting research in the fields of machine learning, computer vision and Natural Language Processing. Enjoys running cross country in the fall and skiing in the winter.
 
 This site was generated using [HUGO](https://gohugo.io) from an [open source theme](https://github.com/HHousen/hugo-resume) via [Netlify](https://www.netlify.com/).
 
