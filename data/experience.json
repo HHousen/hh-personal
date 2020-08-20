@@ -1,20 +1,33 @@
 {
-    "experiences": [{
-            "title": "Machine Learning, Statistics, NLP",
-            "subtitle": "Self-Learning with Various Courses & Books",
-            "summary": "Reading:\n* [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)\n* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)\n* [Programming PyTorch for Deep Learning](http://shop.oreilly.com/product/0636920216032.do)\n* [Deep Learning](https://www.deeplearningbook.org/)\n\n Course: [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)",
-            "range": "November 2019 – Present"
+    "experiences": [
+        {
+            "title": "lecture2notes",
+            "subtitle": "Summarizing Lecture Videos by Classifying Slides and Analyzing Text",
+            "summary": "Conducted scientific research & created a state-of-the-art system to summarize classroom lectures using machine learning, computer vision, and NLP. More info on [the project page](/projects/lecture2notes/).",
+            "range": "September 2019 – Present"
         },
         {
-            "title": "Computer Vision with Machine Learning",
-            "subtitle": "Self-Learning with PyTorch",
-            "summary": "Working towards research in Computer Vision. Using PyTorch for advanced feature extraction with a modified pretrained [ResNet](https://arxiv.org/abs/1512.03385), [scikit-learn](https://scikit-learn.org/) for clustering, [DeepSpeech](https://github.com/mozilla/DeepSpeech) for ASR, and [BART](https://github.com/pytorch/fairseq/blob/master/examples/bart/README.md) for summarization.",
-            "range": "December 2018 – Present"
+            "title": "TransformerSum",
+            "subtitle": "Open-Source Neural Summarization Library",
+            "summary": "Furthered research in neural-network text summarization models, specifically in less researched areas such as long document summarization. 4.45x smaller than state-of-the-art but 94% as accurate. High code quality and thoroughly documented. More info on [the project page](/projects/transformersum/).",
+            "range": "March 2020 - August 2020"
+        },
+        {
+            "title": "PicoCTF",
+            "subtitle": "Cybersecurity Challenges",
+            "summary": "Placed 609 out of 15,817 during the competition. Continued to complete all 121 challenges and reach rank 39 out of nearly 100,000 participants. Learned ethical hacking skills including cryptography, forensics, reverse engineering, and binary exploitation. More info on [the project page](/projects/picoctf/).",
+            "range": "September 2019 - June 2020"
+        },
+        {
+            "title": "Machine Learning, Statistics, NLP",
+            "subtitle": "Self-Learning with Various Courses & Books",
+            "summary": "Books:\n* [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)\n* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)\n* [Programming PyTorch for Deep Learning](http://shop.oreilly.com/product/0636920216032.do)\n* [Deep Learning](https://www.deeplearningbook.org/)\n* [Deep Learning for Coders with Fastai and PyTorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)\n\n Courses:\n* [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)\n* [EECS 498-007/598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) ([Videos](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r))",
+            "range": "November 2019 – May 2020"
         },
         {
             "title": "Fast.ai",
             "subtitle": "Deep Learning Fundamentals",
-            "summary": "Completed parts one and two. Developed an understanding for advanced deep learning concepts by building several near state-of-the-art models and writing some ML functions from scratch. Built [AI Respiratory Doctor](https://haydenhousen.com/projects/ai-respiratory-doctor/).",
+            "summary": "Completed parts one and two. Developed an understanding for advanced deep learning concepts by building several near state-of-the-art models and writing many machine learning functions from scratch. Built [AI Respiratory Doctor](https://haydenhousen.com/projects/ai-respiratory-doctor/).",
             "range": "September 2018 – July 2019"
         },
         {
@@ -32,7 +45,7 @@
         {
             "title": "FreeCodeCamp",
             "subtitle": "Awarded Front End Development Certificate",
-            "summary": "Completed about 400 hours of coursework. Built 10 front-end projects. Completed 347 coding challenges.",
+            "summary": "Completed about 400 hours of coursework. Built 10 front-end projects ([available on CodePen](https://codepen.io/collection/DyVKZM)). Completed 347 coding challenges.",
             "range": "Feb 2017 – Sept 2017"
         },
         {
