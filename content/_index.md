@@ -6,7 +6,7 @@ sitemap:
   priority : 1.0
 ---
 
-High school senior with extensive experience in computer science. Possesses impeccable organizational skills and excellent knowledge of programming languages. Is a diligent and dedicated individual that never gives up. Currently is conducting research in the fields of machine learning, computer vision and Natural Language Processing. Enjoys running cross country in the fall and skiing in the winter.
+A logical and detail-oriented high school senior with extensive experience in computer science. Currently is researching automatic classroom lecture summarization using AI and Deep Learning. Understands [machine learning in production](/projects/will-i-have-a-snow-day/) and [full-stack web development](/projects/ai-respiratory-doctor/). Maintains open-source [NLP programs](/projects/docsum/) that perform [state-of-the-art neural text summarization](/projects/transformersum/). Publishes [guides](/projects/picoctf/) for [cybersecurity](https://github.com/HHousen/hack-the-box) [challenges](https://github.com/HHousen/try-hack-me). Enjoys running cross country in the fall and skiing in the winter.
 
 This site was generated using [HUGO](https://gohugo.io) from an [open source theme](https://github.com/HHousen/hugo-resume) via [Netlify](https://www.netlify.com/).
 
