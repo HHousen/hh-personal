@@ -32,7 +32,9 @@ enableGitInfo = true
 [params.google_analytics]
   trackerID = "UA-55408421-8"
 
-
+[params.news]
+  newsText = "**News (1/7/21):** Hayden is named a Regeneron STS Scholar!"
+  newsLink = "/projects/lecture2notes/"
 
 [[params.social]]
   name = "CodePen"
