@@ -1,8 +1,8 @@
 ---
-title: "PicoCTF Writeup"
+title: "PicoCTF 2019 Writeup"
 date: 2019-10-14T19:33:28-04:00
 featured: true
-description: "My solutions to the PicoCTF 2019 computer security competition. I scored 13,900 during the competition but have since completed all the problems to reach 34,201 points."
+description: "My solutions to the PicoCTF 2019 computer security competition. I scored 13,900 points (top 3.8%) during the competition but have since completed all the problems to reach 34,201 points."
 tags: ["Cyber Security"]
 resources:
 - name: "image"
