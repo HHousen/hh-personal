@@ -13,6 +13,8 @@ sitemap:
   priority : 0.8
 ---
 
+**My writeups have not been made public yet because PicoCTF has yet to allow the release of writeups for the 2021 spring competition.**
+
 "picoCTF is a free computer security game targeted at middle and high school students, created by security experts at Carnegie Mellon University. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. The challenges are all set up with the intent of being hacked, making it an excellent, legal way to get hands-on experience." — PicoCTF.com
 
 I learned ethical hacking skills including cryptography, binary exploitation, forensics, reverse engineering, and web exploitation.
