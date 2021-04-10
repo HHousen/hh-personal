@@ -15,7 +15,7 @@ sitemap:
 
 This CTF allowed me to practice my web exploitation, reverse engineering, networking, cryptography, and binary exploitation skills.
 
-During the competition period, which was held from April 5th, 2021 12:00PM EST to April 7th, 2021 12:00PM EST, I placed **23rd out of 3,277** (**top 0.7%**) with a score of **6,150 points**. I completed **76% of the challenges** and earned **54% of the available points**.
+During the competition period, which was held from April 5th, 2021 12:00PM EST to April 7th, 2021 12:00PM EST, I placed **23rd out of 3,277** (**top 0.7%**) with a score of **6,150 points**. I completed **76% of the challenges** and earned **54% of the available points**. Since then, I have solved every challenge and achieved the maximum score of **11,400 points**.
 
 Regarding the **organization**: "Cybersecurity is one of the world’s fastest growing industries. The National Cyber Scholarship Foundation is working hard to address the current cyber skills shortage by developing and championing the next generation of cybersecurity professionals, through the provision of $2 million in college scholarships and $13.8 million in cybersecurity training." - [The National Cyber Scholarship Foundation](https://www.nationalcyberscholarship.org/)
 
