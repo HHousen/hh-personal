@@ -7,7 +7,7 @@ tags: ["Cyber Security"]
 resources:
 - name: "image"
   src: "flag.png"
-link: "https://github.com/HHousen/PicoCTF-2019"
+link: "https://picoctf2019.haydenhousen.com/"
 weight: 500
 sitemap:
   priority : 0.8
@@ -20,3 +20,5 @@ I learned ethical hacking skills including cryptography, binary exploitation, fo
 During the competition period, which was held between September 27, 2019 and October 11, 2019, I placed **609 out of 15817** with a score of **13,900 points**. Since then I have completed all 121 challenges, achieved the max score of **34,201 points**, and reached **rank 39 out of nearly 100,000 participants**. All of my writeups (containing solutions and explanations) can be found in the [github repo](https://github.com/HHousen/PicoCTF-2019).
 
 Not every challenge has a corresponding writeup. I did not do any writeups for any of the challenges in the "General Skills" category since they were mostly for beginners. I also left out many of the beginner-level challenges in other categories. All of the most difficult challenges with the fewest solves have a writeup.
+
+GitHub Repository: <https://github.com/HHousen/PicoCTF-2019>
