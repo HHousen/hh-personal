@@ -1,11 +1,22 @@
 {
-  "schools": [{
-    "school": "[Pawling Central High School](https://www.pawlingschools.org/)",
-    "degree": "Advanced Regents Diploma with Honors",
-    "major": "GPA: 4.0",
-    "notes": {
-      "Info": "Always enrolled in highest level courses. Conducted research into machine learning & computer vision through Science Research program. Took every available computer science course."
+  "schools": [
+    {
+      "school": "[Cornell University](https://www.cornell.edu/)",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science",
+      "notes": {
+        "Info": "Incoming freshman to the College of Engineering."
+      },
+      "range": "2021-2025 (Expected Graduation)"
     },
-    "range": "2017-2021 (Expected Graducation)"
-  }]
+    {
+      "school": "[Pawling Central High School](https://www.pawlingschools.org/)",
+      "degree": "Advanced Regents Diploma with Honors",
+      "major": "GPA: 4.0",
+      "notes": {
+        "Info": "Always enrolled in highest level courses. Conducted research into machine learning & computer vision through Science Research program. Took every available computer science course."
+      },
+      "range": "2017-2021"
+    }
+  ]
 }
