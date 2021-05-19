@@ -33,8 +33,8 @@ enableGitInfo = true
   trackerID = "UA-55408421-8"
 
 [params.news]
-  newsText = "**News (1/7/21):** Hayden is named a Regeneron STS Scholar!"
-  newsLink = "/projects/lecture2notes/"
+  newsText = "**News (5/18/21):** Hayden is named a National Cyber Scholar with Honors!"
+  newsLink = "/projects/national-cyber-scholarship-competition-2021/"
 
 [[params.social]]
   name = "CodePen"
