@@ -2,20 +2,26 @@
 title: "National Cyber Scholarship Competition 2021 Writeup"
 date: 2021-04-08T10:56:59-04:00
 featured: true
-description: "My solutions to the National Cyber Scholarship 2021 computer security competition. I placed 23rd out of 3,277 (top 0.7%) with a score of 6,150 points."
+description: "I was named a National Cyber Scholar with Honors for placing 23rd out of 3,277 (top 0.7%) in this cybersecurity competition."
 tags: ["Cyber Security"]
 resources:
 - name: "image"
   src: "us-flag.png"
+- name: "social"
+  src: "scholar-with-honors-badge.png"
 link: "https://ncs2021.haydenhousen.com/"
 weight: 500
 sitemap:
   priority : 0.8
 ---
 
-This CTF allowed me to practice my web exploitation, reverse engineering, networking, cryptography, and binary exploitation skills.
+**For this cybersecurity competition, I was named a [National Cyber Scholar with Honors](https://www.nationalcyberscholarship.org/winners-2021) and was awarded a $3,000 scholarship.** Scholar with Honors is the highest accolade available through the [NCS Competition](https://www.nationalcyberscholarship.org/high-school-scholarship-competition), and is awarded to the top 30 National Cyber Scholars.
+
+{{< imgproject social "600x600" >}}
 
 During the competition period, which was held from April 5th, 2021 12:00PM EST to April 7th, 2021 12:00PM EST, I placed **23rd out of 3,277** (**top 0.7%**) with a score of **6,150 points**. I completed **76% of the challenges** and earned **54% of the available points**. Since then, I have solved every challenge and achieved the maximum score of **11,400 points**.
+
+This CTF allowed me to practice my web exploitation, reverse engineering, networking, cryptography, and binary exploitation skills.
 
 Regarding the **organization**: "Cybersecurity is one of the world’s fastest growing industries. The National Cyber Scholarship Foundation is working hard to address the current cyber skills shortage by developing and championing the next generation of cybersecurity professionals, through the provision of $2 million in college scholarships and $13.8 million in cybersecurity training." - [The National Cyber Scholarship Foundation](https://www.nationalcyberscholarship.org/)
 
