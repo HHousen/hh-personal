@@ -1,6 +1,12 @@
 {
     "experiences": [
         {
+            "title": "Co-op on Machine Learning Team @ [Ada Support](https://ada.cx)",
+            "subtitle": "Improved multilingual understanding for Ada's AI chatbots",
+            "summary": "Increased valuable customer interactions by enabling Ada chatbots to better understand non-English languages. Collaboratively developed and trained multilingual models using state-of-the-art architectures.",
+            "range": "May 2021 – September 2021"
+        },
+        {
             "title": "lecture2notes",
             "subtitle": "Summarizing Lecture Videos by Classifying Slides and Analyzing Text",
             "summary": "Conducted scientific research & created a state-of-the-art system to summarize classroom lectures using machine learning, computer vision, and NLP. More info on [the project page](/projects/lecture2notes/).",
@@ -13,16 +19,10 @@
             "range": "March 2020 - August 2020"
         },
         {
-            "title": "PicoCTF",
+            "title": "PicoCTF 2019 & 2021",
             "subtitle": "Cybersecurity Challenges",
-            "summary": "Placed 609 out of 15,817 during the competition. Continued to complete all 121 challenges and reach rank 39 out of nearly 100,000 participants. Learned ethical hacking skills including cryptography, forensics, reverse engineering, and binary exploitation. More info on [the project page](/projects/picoctf/).",
-            "range": "September 2019 - June 2020"
-        },
-        {
-            "title": "Machine Learning, Statistics, NLP",
-            "subtitle": "Self-Learning with Various Courses & Books",
-            "summary": "Books:\n* [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)\n* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)\n* [Programming PyTorch for Deep Learning](http://shop.oreilly.com/product/0636920216032.do)\n* [Deep Learning](https://www.deeplearningbook.org/)\n* [Deep Learning for Coders with Fastai and PyTorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)\n\n Courses:\n* [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)\n* [EECS 498-007/598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) ([Videos](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r))",
-            "range": "November 2019 – May 2020"
+            "summary": "Placed 609 out of 15,817 during the [2019 competition](/projects/picoctf-2019/) and later completed all 121 challenges. During the [2021 competition](/projects/picoctf-2021/), placed 25 out of 2280 (top 1.1%) among US Middle/High School students. Learned ethical hacking skills including cryptography, forensics, reverse engineering, and binary exploitation.",
+            "range": "September 2019 - March 2021"
         },
         {
             "title": "Fast.ai",
