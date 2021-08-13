@@ -16,7 +16,7 @@ enableGitInfo = true
   profileImage = "media/hh-logo.png"
   gitCommitPrefix = "https://github.com/HHousen/hh-personal"
   email = "hayden@haydenhousen.com"
-  description = "A logical and detail-oriented incoming freshman at Cornell University studying computer science and an intern on the Machine Learning Team at Ada Support. Researched automatic classroom lecture summarization using AI and deep learning in high school. Understands machine learning in production and full-stack web development. Maintains open-source NLP programs that perform state-of-the-art neural text summarization. Publishes guides for cybersecurity challenges. Enjoys running cross country in the fall and skiing in the winter."
+  description = "A logical and detail-oriented freshman at Cornell University studying computer science. Previously, an intern on the Machine Learning Team at Ada Support. Researched automatic classroom lecture summarization using AI and deep learning in high school. Understands machine learning in production and full-stack web development. Maintains open-source NLP programs that perform state-of-the-art neural text summarization. Publishes guides for cybersecurity challenges. Enjoys running cross country in the fall and skiing in the winter."
   favicon = "media/favicon.png"
   resumePDF = "media/Hayden_Housen_Resume_V3.3.pdf"
   # what sections
