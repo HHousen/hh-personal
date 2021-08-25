@@ -12,7 +12,7 @@ enableGitInfo = true
 [params]
   firstName = "Hayden"
   lastName = "Housen"
-  address = "Pawling, NY"
+  address = "Ithaca, NY"
   profileImage = "media/hh-logo.png"
   gitCommitPrefix = "https://github.com/HHousen/hh-personal"
   email = "hayden@haydenhousen.com"
