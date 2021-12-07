@@ -1,5 +1,5 @@
 ---
-title: "Advent of Code"
+title: "Advent of Code 2020"
 date: 2021-03-11T22:13:24-05:00
 featured: true
 description: "My solutions to the Advent of Code 2020 puzzles. Earned all 50 stars. Solutions written in Python."
