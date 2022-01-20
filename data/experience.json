@@ -1,8 +1,8 @@
 {
     "experiences": [
         {
-            "title": "Undergraduate Student Researcher @ [Cornell University Artificial Intelligence](https://cuai.github.io)",
-            "subtitle": "Machine Learning Research and Education",
+            "title": "Undergraduate Student Researcher @ [CUAI](https://cuai.github.io)",
+            "subtitle": "Machine Learning Research and Education at Cornell University",
             "summary": "Researching paraphrase detection and generation (NLP) as well as zero-shot image classification (Computer Vision).",
             "range": "September 2021 – Present"
         },
