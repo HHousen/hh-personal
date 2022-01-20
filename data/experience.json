@@ -1,6 +1,12 @@
 {
     "experiences": [
         {
+            "title": "Undergraduate Student Researcher @ [Cornell University Artificial Intelligence](https://cuai.github.io)",
+            "subtitle": "Machine Learning Research and Education",
+            "summary": "Researching paraphrase detection and generation (NLP) as well as zero-shot image classification (Computer Vision).",
+            "range": "September 2021 – Present"
+        },
+        {
             "title": "Co-op on Machine Learning Team @ [Ada Support](https://ada.cx)",
             "subtitle": "Improved multilingual understanding for Ada's AI chatbots",
             "summary": "Increased valuable customer interactions by enabling Ada chatbots to better understand non-English languages. Collaboratively developed and trained multilingual models using state-of-the-art architectures.",
