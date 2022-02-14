@@ -10,7 +10,7 @@ resources:
 - name: "social"
   src: "scholar-with-honors-badge.png"
 link: "https://ncs2021.haydenhousen.com/"
-weight: 500
+weight: 104
 sitemap:
   priority : 0.8
 ---

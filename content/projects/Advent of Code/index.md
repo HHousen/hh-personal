@@ -7,7 +7,7 @@ tags: []
 resources:
 - name: "image"
   src: "aoc.png"
-weight: 500
+weight: 107
 sitemap:
   priority : 0.8
 ---

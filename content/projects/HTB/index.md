@@ -8,7 +8,7 @@ resources:
 - name: "image"
   src: "htb-logo.png"
 link: "https://github.com/HHousen/hack-the-box"
-weight: 500
+weight: 110
 sitemap:
   priority : 0.8
 ---

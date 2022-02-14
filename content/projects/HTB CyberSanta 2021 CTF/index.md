@@ -10,7 +10,7 @@ resources:
 - name: "certificate"
   src: "certificate-hhousen-small.png"
 link: "https://github.com/HHousen/HTB-CyberSanta-2021"
-weight: 500
+weight: 109
 sitemap:
   priority : 0.8
 ---

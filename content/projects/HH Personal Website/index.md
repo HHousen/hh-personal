@@ -8,7 +8,7 @@ resources:
 - name: "image"
   src: "internet.png"
 link: "https://github.com/HHousen/hh-personal"
-weight: 500
+weight: 105
 sitemap:
   priority : 0.8
 ---

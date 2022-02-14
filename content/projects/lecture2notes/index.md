@@ -8,7 +8,7 @@ resources:
 - name: "image"
   src: "research.png"
 link: "https://github.com/HHousen/lecture2notes/"
-weight: 500
+weight: 100
 sitemap:
   priority : 0.8
 ---

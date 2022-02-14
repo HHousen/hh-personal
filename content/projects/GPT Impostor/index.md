@@ -8,7 +8,7 @@ resources:
 - name: "image"
   src: "gpt-impostor-blurple.png"
 link: "https://github.com/HHousen/GPT-Impostor"
-weight: 500
+weight: 106
 sitemap:
   priority : 0.8
 ---

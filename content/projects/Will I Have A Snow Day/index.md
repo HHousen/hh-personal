@@ -10,7 +10,7 @@ resources:
 - name: "social"
   src: "wihasd-social.png"
 link: "https://willihaveasnowday.com"
-weight: 500
+weight: 102
 sitemap:
   priority : 0.8
 ---

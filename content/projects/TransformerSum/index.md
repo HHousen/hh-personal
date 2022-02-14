@@ -8,7 +8,7 @@ resources:
 - name: "image"
   src: "transformersum.jpg"
 link: "https://github.com/HHousen/TransformerSum"
-weight: 500
+weight: 101
 sitemap:
   priority : 0.8
 ---
