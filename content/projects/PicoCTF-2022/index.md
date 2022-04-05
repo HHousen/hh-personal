@@ -13,7 +13,7 @@ sitemap:
   priority : 0.8
 ---
 
-**Writeups will be published in the coming days (waiting for permission from PicoCTF team)**
+**[Click here to view my writeups](https://picoctf2022.haydenhousen.com/)**
 
 "picoCTF is a free computer security game targeted at middle and high school students, created by security experts at Carnegie Mellon University. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. The challenges are all set up with the intent of being hacked, making it an excellent, legal way to get hands-on experience." — PicoCTF.com
 
