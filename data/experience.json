@@ -37,28 +37,10 @@
             "range": "September 2018 – July 2019"
         },
         {
-            "title": "Johns Hopkins Center for Talented Youth (CTY)",
-            "subtitle": "",
-            "summary": "Completed “Introduction to Java” and “Advanced Java” courses. I also took AP Computer Science A through CTY.",
-            "range": "June 2018 – May 2019"
-        },
-        {
-            "title": "National Computer Camps (NCC)",
-            "subtitle": "",
-            "summary": "Completed java challenges and projects",
-            "range": "July 2017"
-        },
-        {
             "title": "FreeCodeCamp",
             "subtitle": "Awarded Front End Development Certificate",
             "summary": "Completed about 400 hours of coursework. Built 10 front-end projects ([available on CodePen](https://codepen.io/collection/DyVKZM)). Completed 347 coding challenges.",
             "range": "Feb 2017 – Sept 2017"
-        },
-        {
-            "title": "Various Online Computer Courses",
-            "subtitle": "Lynda.com/Udacity/CodeCademy",
-            "summary": "Lynda.com: 19 courses completed including the “Programming Foundations” series by Simon Allardice\n\nUdacity: Completed several courses about JavaScript, Android, Web Design, and Networking\n\nCodeCademy: Completed various tutorials involving basic web development",
-            "range": "June 2016 – June 2018"
         }
     ]
 }
