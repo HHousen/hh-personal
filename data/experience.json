@@ -3,32 +3,32 @@
         {
             "title": "Undergraduate Student Researcher @ [CUAI](https://cuai.github.io)",
             "subtitle": "Machine Learning Research and Education at Cornell University",
-            "summary": "Researching paraphrase detection and generation (NLP) as well as zero-shot image classification (Computer Vision).",
-            "range": "September 2021 – Present"
+            "summary": "- Overcame bias in **paraphrase identification** by using autoregressive transformers & out-of-distribution detection techniques.\n- Experimented with **zero-shot image classification** via OpenAI's CLIP model.",
+            "range": "September 2021 – May 2022"
         },
         {
             "title": "Co-op on Machine Learning Team @ [Ada Support](https://ada.cx)",
             "subtitle": "Improved multilingual understanding for Ada's AI chatbots",
-            "summary": "Increased valuable customer interactions by enabling Ada chatbots to better understand non-English languages. Collaboratively developed and trained multilingual models using state-of-the-art architectures.",
+            "summary": "- Increased valuable customer interactions by **leading** a project to enable Ada chatbots to better understand non-English languages.\n- Collaboratively developed and trained state-of-the-art **multilingual** machine learning models.\n- Experimented with novel techniques and cultivated skills in PyTorch, transformers, and pandas.",
             "range": "May 2021 – September 2021"
         },
         {
             "title": "lecture2notes",
             "subtitle": "Summarizing Lecture Videos by Classifying Slides and Analyzing Text",
-            "summary": "Conducted scientific research & created a state-of-the-art system to summarize classroom lectures using machine learning, computer vision, and NLP. More info on [the project page](/projects/lecture2notes/).",
+            "summary": "- Conducted **scientific research** and created a state-of-the-art system to summarize classroom lectures using machine learning, computer vision, and NLP.\n- Named a **top 300 scholar** in the 2021 **Regeneron Science Talent Search**, the nation's oldest and most prestigious science and math competition for high school seniors.\n- Deployed ML pipeline in production via a **full-stack website** powered by Docker, Flask, Celery, Bootstrap, and Stripe.\n- More info on [the project page](/projects/lecture2notes/).",
             "range": "September 2019 – May 2021"
         },
         {
             "title": "TransformerSum",
             "subtitle": "Open-Source Neural Summarization Library",
-            "summary": "Furthered research in neural-network text summarization models, specifically in less researched areas such as long document summarization. 4.45x smaller than state-of-the-art but 94% as accurate. High code quality and thoroughly documented. More info on [the project page](/projects/transformersum/).",
-            "range": "March 2020 - August 2020"
+            "summary": "- Furthered research in neural-network text summarization models with a focus on **long document** summarization.\n- **4.45x smaller** than state-of-the-art model but **94% as accurate** at release.\n- Designed with code readability and thorough documentation as top priorities.\n- More info on [the project page](/projects/transformersum/).",
+            "range": "March 2020 – August 2020"
         },
         {
-            "title": "PicoCTF 2019 & 2021",
-            "subtitle": "Cybersecurity Challenges",
-            "summary": "Placed 609 out of 15,817 during the [2019 competition](/projects/picoctf-2019/) and later completed all 121 challenges. During the [2021 competition](/projects/picoctf-2021/), placed 25 out of 2280 (top 1.1%) among US Middle/High School students. Learned ethical hacking skills including cryptography, forensics, reverse engineering, and binary exploitation.",
-            "range": "September 2019 - March 2021"
+            "title": "Cybersecurity Challenges",
+            "subtitle": "Ethical Hacking Skills",
+            "summary": "- Placed **23rd (top 0.7%)** in 2021 National Cyber Scholarship Competition.\n- Placed in **top 3%** on average in PicoCTF [2019](/projects/picoctf-2019/)/[2021](/projects/picoctf-2021/)/[2022](/projects/picoctf-2022/) competitions. Wrote detailed **writeups** to document my learning and help others.\n- Continuously solving HackTheBox.com machines and [publishing writeups](/projects/htb/).\n- Learned ethical hacking skills including cryptography, forensics, reverse engineering, and binary exploitation.",
+            "range": "September 2019 – Present"
         },
         {
             "title": "Fast.ai",
