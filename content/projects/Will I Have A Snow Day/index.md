@@ -21,4 +21,4 @@ Will I Have A Snow Day.com (WIHASD) is a website that will **calculate your chan
 
 Importantly, WIHASD has a mechanism that enables it to **improve its accuracy over time**. When you make a prediction you can sign up to receive an email the day of the predicted snow day. The email will ask **if the model's prediction was correct**. The captured weather data and your label (whether or not you had a snow day) will be added to the database used to train the model, thus giving it more information about the **weather conditions** and your specific **zip code**.
 
-Unfortunately, the model code is currently private to protect the website from being duplicated. You can email me if you have any questions about how the system works.
+GitHub Repository: <https://github.com/HHousen/willihaveasnowday>
