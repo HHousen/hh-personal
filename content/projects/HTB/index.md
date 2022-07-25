@@ -7,12 +7,16 @@ tags: ["Cyber Security"]
 resources:
 - name: "image"
   src: "htb-logo.png"
-link: "https://github.com/HHousen/hack-the-box"
+link: "https://htb.haydenhousen.com"
 weight: 110
 sitemap:
   priority : 0.8
 ---
 
+**[Click here to view my writeups](https://htb.haydenhousen.com)**
+
 [HackTheBox](https://www.hackthebox.com/) is "an online cybersecurity training platform allowing IT professionals to advance their ethical hacking skills and be part of a worldwide community."
 
 These are my write-ups and tutorials for various HackTheBox machines that I have completed.
+
+GitHub Repository: <https://github.com/HHousen/hack-the-box>
