@@ -22,7 +22,7 @@
             "title": "lecture2notes",
             "subtitle": "Summarizing Lecture Videos by Classifying Slides and Analyzing Text",
             "summary": "- Conducted [**scientific research**](https://haydenhousen.com/media/lecture2notes-paper-v1.pdf) and created a state-of-the-art system to summarize classroom lectures using machine learning, computer vision, and NLP.\n- Named a [**top 300 scholar**](https://www.societyforscience.org/regeneron-sts/2021-scholars/) in the 2021 **Regeneron Science Talent Search**, the nation's oldest and most prestigious science and math competition for high school seniors.\n- Deployed ML pipeline in production via a [**full-stack website**](https://lecture2notes.com/) powered by Docker, Flask, Celery, Bootstrap, and Stripe.\n- **More info on [the project page](/projects/lecture2notes/)**.",
-            "range": "Sep 2019 – May 2021"
+            "range": "Sep 2019 – Jan 2022"
         },
         {
             "title": "TransformerSum",
