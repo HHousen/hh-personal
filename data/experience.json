@@ -28,7 +28,7 @@
             "title": "TransformerSum",
             "subtitle": "Open-Source Neural Summarization Library",
             "summary": "- Furthered research in neural-network text summarization models with a focus on **long document** summarization.\n- **4.45x smaller** than state-of-the-art model but **94% as accurate** at release. 10+ pre-trained models available.\n- Designed with code readability and thorough documentation as top priorities.\n- **More info on [the project page](/projects/transformersum/)**.",
-            "range": "Mar 2020 – Aug 2020"
+            "range": "Mar 2020 – Oct 2020"
         },
         {
             "title": "Cybersecurity Challenges",
