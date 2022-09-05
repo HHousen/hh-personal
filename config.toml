@@ -18,7 +18,7 @@ enableGitInfo = true
   email = "hayden@haydenhousen.com"
   description = "A logical and detail-oriented freshman at Cornell University studying computer science. Previously, an intern on the Machine Learning Team at Ada Support. Researched automatic classroom lecture summarization using AI and deep learning in high school. Understands machine learning in production and full-stack web development. Maintains open-source NLP programs that perform state-of-the-art neural text summarization. Publishes guides for cybersecurity challenges. Enjoys running cross country in the fall and skiing in the winter."
   favicon = "media/favicon.png"
-  resumePDF = "media/Hayden_Housen_Resume_v4.1.pdf"
+  resumePDF = "media/Hayden_Housen_Resume_v4.2.pdf"
   # what sections
   showSkills = true
   showProjects = true
