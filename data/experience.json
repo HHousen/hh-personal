@@ -3,7 +3,7 @@
         {
             "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
             "subtitle": "",
-            "summary": "- Conducted **>60 experiments** and trained >110 models to increase the accuracy of Ada's intent classification pipeline.\n- Experimented with knowledge transfer, unsupervised learning of sentence embeddings, multi-task learning, and contrastive losses in the context of transformers and SVMs.\n- My technique matched production accuracy using **only 3%** of production data.",
+            "summary": "- Conducted **>60 experiments** and trained >110 models to increase the accuracy of Ada's intent classification pipeline.\n- Experimented with knowledge transfer, unsupervised learning of sentence embeddings, multi-task learning, and contrastive losses in the context of transformers and SVMs.\n- My technique **improved production accuracy by 8%** using only 3% of production data.",
             "range": "May 2022 – Aug 2022"
         },
         {
@@ -15,7 +15,7 @@
         {
             "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
             "subtitle": "Improved multilingual understanding for Ada's AI chatbots",
-            "summary": "- Increased valuable customer interactions by leading a project to enable Ada chatbots to better understand non-English languages.\n- Cleaned and analyzed 9 billion chat messages to train state-of-the-art multilingual machine learning models..\n- Experimented with novel techniques and cultivated skills in PyTorch, transformers, and pandas.",
+            "summary": "- Led the discovery and experimentation phases of a project to enable Ada chatbots to better understand non-English languages.\n- Wrote a data processing pipeline to efficiently clean and analyze **9 billion** chat messages for machine learning models.\n- Researched novel techniques in multilingual intent prediction and cultivated skills in PyTorch, transformers, and pandas.",
             "range": "May 2021 – Aug 2021"
         },
         {
@@ -27,7 +27,7 @@
         {
             "title": "TransformerSum",
             "subtitle": "Open-Source Neural Summarization Library",
-            "summary": "- Furthered research in neural-network text summarization models with a focus on **long document** summarization.\n- **4.45x smaller** than state-of-the-art model but **94% as accurate** at release. 10+ pre-trained models available.\n- Designed with code readability and thorough documentation as top priorities.\n- **More info on [the project page](/projects/transformersum/)**.",
+            "summary": "- Furthered research in neural-network text summarization models with a focus on **long document** summarization.\n- **4.45x smaller** than state-of-the-art model but **94% as accurate** at release. 10+ pre-trained models available.\n- Designed with code readability and thorough documentation as top priorities. **300+ stars on [GitHub](https://github.com/HHousen/TransformerSum)**\n- **More info on [the project page](/projects/transformersum/)**.",
             "range": "Mar 2020 – Oct 2020"
         },
         {
