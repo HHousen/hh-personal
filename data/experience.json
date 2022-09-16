@@ -9,7 +9,7 @@
         {
             "title": "Undergraduate Student Researcher @ [CUAI](https://cuai.github.io)",
             "subtitle": "Machine Learning Research and Education at Cornell University",
-            "summary": "- Overcame bias in **paraphrase identification** by using autoregressive transformers & out-of-distribution detection techniques.\n- Experimented with **zero-shot image classification** via OpenAI's CLIP model.",
+            "summary": "- Overcame bias in paraphrase identification by using autoregressive transformers & out-of-distribution detection techniques: \"[GAPX: Generalized Autoregressive Paraphrase-Identification X](/media/GAPX.pdf).\" Published in **NeurIPS 2022 (3rd author)**. Advised by Dr. Sernam Lim at Meta AI.\n- Experimented with **zero-shot image classification** via OpenAI's CLIP model.",
             "range": "Sep 2021 – May 2022"
         },
         {
