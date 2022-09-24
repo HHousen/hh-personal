@@ -3,7 +3,7 @@
         {
             "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
             "subtitle": "",
-            "summary": "- Conducted **>60 experiments** and trained >110 models to increase the accuracy of Ada's intent classification pipeline.\n- Experimented with knowledge transfer, unsupervised learning of sentence embeddings, multi-task learning, and contrastive losses in the context of transformers and SVMs.\n- My technique **improved production accuracy by 8%** using only 3% of production data.",
+            "summary": "- **Improved Ada's production accuracy by 8%** using only 3% of production data by developing a novel intent classification pipeline.\n- Conducted **>60 experiments** and trained >110 models to determine the most accurate methodology.\n- Experimented with knowledge transfer, unsupervised learning of sentence embeddings, multi-task learning, and contrastive losses in the context of transformers and support vector machines.",
             "range": "May 2022 – Aug 2022"
         },
         {
@@ -21,19 +21,19 @@
         {
             "title": "lecture2notes",
             "subtitle": "Summarizing Lecture Videos by Classifying Slides and Analyzing Text",
-            "summary": "- Conducted [**scientific research**](https://haydenhousen.com/media/lecture2notes-paper-v1.pdf) and created a state-of-the-art system to summarize classroom lectures using machine learning, computer vision, and NLP.\n- Named a [**top 300 scholar**](https://www.societyforscience.org/regeneron-sts/2021-scholars/) in the 2021 **Regeneron Science Talent Search**, the nation's oldest and most prestigious science and math competition for high school seniors.\n- Deployed ML pipeline in production via a [**full-stack website**](https://lecture2notes.com/) powered by Docker, Flask, Celery, Bootstrap, and Stripe.\n- **More info on [the project page](/projects/lecture2notes/)**.",
+            "summary": "- Created a state-of-the-art system to summarize classroom lectures using PyTorch, transformers (BERT), optical character recognition, speech to text, and convolutional neural networks. Source on [GitHub](https://github.com/HHousen/lecture2notes/). Learn more in the **[research paper](/media/lecture2notes-paper-v1.pdf)**.\n- Named a **[top 300 scholar](https://www.societyforscience.org/regeneron-sts/2021-scholars/) in the 2021 Regeneron Science Talent Search**, the nation’s oldest and most prestigious science and math competition for high school seniors.\n- Deployed ML pipeline in production via a **[full-stack website](https://lecture2notes.com/)** powered by Docker, Flask, Celery, Bootstrap, and Stripe.\n- **More info on [the project page](/projects/lecture2notes/)**.",
             "range": "Sep 2019 – Jan 2022"
         },
         {
             "title": "TransformerSum",
             "subtitle": "Open-Source Neural Summarization Library",
-            "summary": "- Furthered research in neural-network text summarization models with a focus on **long document** summarization.\n- **4.45x smaller** than state-of-the-art model but **94% as accurate** at release. 10+ pre-trained models available.\n- Designed with code readability and thorough documentation as top priorities. **300+ stars on [GitHub](https://github.com/HHousen/TransformerSum)**\n- **More info on [the project page](/projects/transformersum/)**.",
+            "summary": "- Furthered research in neural-network text summarization with a focus on long document summarization. **310+ stars on [GitHub](https://github.com/HHousen/TransformerSum)**.\n- **4.45x smaller** than the state-of-the-art model but **94% as accurate** at release. 10+ pre-trained models available.\n- Rewrote researchers' code with enhanced performance and a focus on code readability and [thorough documentation](https://transformersum.readthedocs.io/en/latest/).\n- **More info on [the project page](/projects/transformersum/)**.",
             "range": "Mar 2020 – Oct 2020"
         },
         {
             "title": "Cybersecurity Challenges",
             "subtitle": "Ethical Hacking Skills",
-            "summary": "- Placed **23rd (top 0.7%)** in 2021 National Cyber Scholarship Competition.\n- Placed in **top 3%** on average in PicoCTF [2019](/projects/picoctf-2019/)/[2021](/projects/picoctf-2021/)/[2022](/projects/picoctf-2022/) competitions. Wrote detailed **writeups** to document my learning and help others.\n- Continuously solving HackTheBox.com machines and [publishing writeups](/projects/htb/).\n- Learned ethical hacking skills including cryptography, forensics, reverse engineering, and binary exploitation.",
+            "summary": "- Placed **23rd (top 0.7%)** in 2021 National Cyber Scholarship Competition.\n- Placed in **top 3%** on average in PicoCTF [2019](/projects/picoctf-2019/)/[2021](/projects/picoctf-2021/)/[2022](/projects/picoctf-2022/) competitions. Wrote technical guides with **over 94,000 views** to document my learning and help others.\n- Continuously practicing cybersecurity principles by solving HackTheBox.com machines and [publishing writeups](https://htb.haydenhousen.com/).\n- Learned ethical hacking skills including web exploitation, cryptography, reverse engineering, and binary exploitation. Worked with popular tools included in Kali Linux.",
             "range": "Sep 2019 – Present"
         },
         {
