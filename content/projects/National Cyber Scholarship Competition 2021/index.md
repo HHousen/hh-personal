@@ -17,7 +17,7 @@ sitemap:
 
 **For this cybersecurity competition, I was named a [National Cyber Scholar with Honors](https://www.nationalcyberscholarship.org/winners-2021) and was awarded a $3,000 scholarship.** Scholar with Honors is the highest accolade available through the [NCS Competition](https://www.nationalcyberscholarship.org/high-school-scholarship-competition), and is awarded to the top 30 National Cyber Scholars.
 
-{{< imgproject social "600x600" >}}
+{{< imgproject image="social" resize="600x600" >}}
 
 During the competition period, which was held from April 5th, 2021 12:00PM EST to April 7th, 2021 12:00PM EST, I placed **23rd out of 3,277** (**top 0.7%**) with a score of **6,150 points**. I completed **76% of the challenges** and earned **54% of the available points**. Since then, I have solved every challenge and achieved the maximum score of **11,400 points**.
 

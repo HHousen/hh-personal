@@ -15,7 +15,7 @@ sitemap:
   priority : 0.8
 ---
 
-{{< imgproject certificate "600x354" >}}
+{{< imgproject image="certificate" resize="600x354" >}}
 
 I earned the FreeCodeCamp.com Front End Development Certificate on September 30, 2017 by completing about 400 hours of coursework, which totals to 347 JavaScript coding challenges and 10 front-end projects. This collection on CodePen showcases the projects I completed.
 

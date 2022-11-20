@@ -17,7 +17,7 @@ sitemap:
 
 Write-ups for various challenges from the 2021 [HackTheBox 2021 Christmas CTF](https://ctf.hackthebox.com/ctf/249).
 
-{{< imgproject certificate "600x600" >}}
+{{< imgproject image="certificate" resize="600x600" >}}
 
 During the competition period, which was held from 01 Dec 2021 13:00 UTC until 05 Dec 2021 19:00 UTC, I placed **295th out of 8094** (**top 3.6%**) with a score of **3325/7875 points** and **11/25** challenges solved.
 
