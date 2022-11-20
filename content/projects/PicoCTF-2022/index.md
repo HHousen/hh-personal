@@ -8,7 +8,7 @@ resources:
 - name: "image"
   src: "flag.png"
 link: "https://picoctf2022.haydenhousen.com/"
-weight: 108
+weight: 110
 sitemap:
   priority : 0.8
 ---

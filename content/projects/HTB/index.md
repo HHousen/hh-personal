@@ -8,7 +8,7 @@ resources:
 - name: "image"
   src: "htb-logo.png"
 link: "https://htb.haydenhousen.com"
-weight: 110
+weight: 112
 sitemap:
   priority : 0.8
 ---

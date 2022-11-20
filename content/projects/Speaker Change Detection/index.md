@@ -3,14 +3,14 @@ title: "Speaker Change Detection"
 date: 2022-11-19T19:17:10-05:00
 featured: true
 description: "An implementation of a machine learning architecture that detects when the current speaker changes in an audio file."
-tags: []
+tags: ["Machine Learning"]
 resources:
 - name: "image"
   src: "sound.png"
 - name: "segmentation"
   src: "segmentation.gif"
 link: "https://github.com/HHousen/speaker-change-detection"
-weight: 500
+weight: 108
 sitemap:
   priority : 0.8
 ---
