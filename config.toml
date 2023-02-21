@@ -34,25 +34,25 @@ enableGitInfo = true
 
 [[params.social]]
   name = "GitHub"
-  icon = "fab fa-github"
+  icon = "icon-github"
   link = "https://github.com/HHousen"
 
 [[params.social]]
   name = "LinkedIn"
-  icon = "fab fa-linkedin"
+  icon = "icon-linkedin-square"
   link = "https://linkedin.com/in/HHousen"
 
 [[params.social]]
   name = "CodePen"
-  icon = "fab fa-codepen"
+  icon = "icon-codepen"
   link = "https://codepen.io/HHousen"
 
 [[params.social]]
   name = "Twitter"
-  icon = "fab fa-twitter"
+  icon = "icon-twitter"
   link = "https://twitter.com/thehaydenhousen"
 
 [[params.social]]
   name = "Email"
-  icon = "fas fa-envelope"
+  icon = "icon-envelope"
   link = "mailto:hayde-remove-n@haydenhousen.com"
