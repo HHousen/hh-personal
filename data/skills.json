@@ -1,23 +1,148 @@
 {
-    "members": [{
-            "grouping": "Front-End Development",
-            "skills": ["HTML5", "CSS3", "JavaScript", "jQuery", "SASS", "DOM", "Bootstrap", "JSON APIs", "AJAX", "Gulp"]
+    "members": [
+        {
+            "grouping": "Languages",
+            "skills": [
+                {
+                    "name": "Python",
+                    "icon": "python-plain"
+                },
+                {
+                    "name": "Java",
+                    "icon": "java-plain"
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "javascript-plain"
+                },
+                {
+                    "name": "HTML",
+                    "icon": "html5-plain"
+                },
+                {
+                    "name": "CSS",
+                    "icon": "css3-plain"
+                },
+                {
+                    "name": "SQL",
+                    "icon": "mysql-plain"
+                },
+                {
+                    "name": "OCaml",
+                    "icon": "ocaml-plain"
+                },
+                {
+                    "name": "C",
+                    "icon": "c-plain"
+                },
+                {
+                    "name": "Bash",
+                    "icon": "bash-plain"
+                }
+            ]
         },
         {
-            "grouping": "Languages, Operating Systems & Tools",
-            "skills": ["Java", "Python,", "git", "Linux", "Windows", "bash", "php", "jQuery", "Atom", "Nodejs", "NPM", "VSCode", "Jupyter Notebook"]
+            "grouping": "Machine Learning",
+            "skills": [
+                {
+                    "name": "PyTorch",
+                    "icon": "pytorch-original"
+                },
+                {
+                    "name": "transformers (BERT)",
+                    "icon": "code"
+                },
+                {
+                    "name": "scikit-learn",
+                    "icon": "code"
+                },
+                {
+                    "name": "NumPy",
+                    "icon": "numpy-original"
+                },
+                {
+                    "name": "Lightning",
+                    "icon": "power"
+                },
+                {
+                    "name": "pandas",
+                    "icon": "pandas-original"
+                },
+                {
+                    "name": "OpenCV",
+                    "icon": "opencv-plain"
+                },
+                {
+                    "name": "Spacy",
+                    "icon": "code"
+                }
+            ]
         },
         {
-            "grouping": "Architecture & Concepts",
-            "skills": ["CI/CD (Travis CI, Netlify)", "DNS", "Firewalls", "Containers", "OOP", "Networking", "DevOps"]
+            "grouping": "Web",
+            "skills": [
+                {
+                    "name": "Flask",
+                    "icon": "flask-original"
+                },
+                {
+                    "name": "React Native (Expo)",
+                    "icon": "react-original"
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": "bootstrap-plain"
+                },
+                {
+                    "name": "jQuery",
+                    "icon": "jquery-plain"
+                },
+                {
+                    "name": "web scraping",
+                    "icon": "code"
+                },
+                {
+                    "name": "API design",
+                    "icon": "fastapi-plain"
+                }
+            ]
         },
         {
-            "grouping": "Platform Development & Administration",
-            "skills": ["Kanban", "HUGO", "GitHub", "Apache", "MySQL", "WordPress", "Docker"]
-        },
-        {
-            "grouping": "AI & Machine Learning",
-            "skills": ["PyTorch", "fastai", "scikit-learn", "CNNs", "GANs", "Transfer Learning", "Feature Extraction", "NLP", "Summarization", "Image Classification", "Clustering", "Hyperparameter Optimization"]
+            "grouping": "DB and DevOps",
+            "skills": [
+                {
+                    "name": "MongoDB",
+                    "icon": "mongodb-plain"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "icon": "postgresql-plain"
+                },
+                {
+                    "name": "MySQL",
+                    "icon": "mysql-plain"
+                },
+                {
+                    "name": "Docker",
+                    "icon": "docker-plain"
+                },
+                {
+                    "name": "AWS",
+                    "icon": "amazonaws"
+                },
+                {
+                    "name": "Firebase",
+                    "icon": "firebase-plain"
+                },
+                {
+                    "name": "CI/CD",
+                    "icon": "circleci-plain"
+                },
+                {
+                    "name": "Git",
+                    "icon": "git-plain"
+                }
+            ]
         }
     ]
 }
