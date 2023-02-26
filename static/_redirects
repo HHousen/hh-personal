@@ -3,4 +3,4 @@ http://hhousen.netlify.com/* http://haydenhousen.com/:splat 301!
 https://hhousen.netlify.com/* https://haydenhousen.com/:splat 301!
 
 # Redirect /resume to the latest resume version
-https://haydenhousen.com/resume https://haydenhousen.com/media/Hayden_Housen_Resume_v4.3.pdf 302
+https://haydenhousen.com/resume https://haydenhousen.com/media/Hayden_Housen_Resume_v4.4.pdf 302
