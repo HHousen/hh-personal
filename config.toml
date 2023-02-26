@@ -43,11 +43,6 @@ enableGitInfo = true
   link = "https://linkedin.com/in/HHousen"
 
 [[params.social]]
-  name = "CodePen"
-  icon = "icon-codepen"
-  link = "https://codepen.io/HHousen"
-
-[[params.social]]
   name = "Twitter"
   icon = "icon-twitter"
   link = "https://twitter.com/thehaydenhousen"
