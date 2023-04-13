@@ -3,7 +3,7 @@ title: "Unsupervised Object Discovery"
 date: 2023-04-13T00:16:03-04:00
 featured: true
 description: "An implementation of several state-of-the-art machine learning models that discover objects in images without being told what an object is."
-tags: []
+tags: ["Machine Learning"]
 resources:
 - name: "image"
   src: "find_object_logo.png"
