@@ -1,16 +1,22 @@
 {
     "experiences": [
         {
-            "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
+            "title": "ML/SWE Intern @ [Vocode](https://vocode.dev)",
             "subtitle": "",
-            "summary": "- **Improved Ada's production accuracy by 8%** using only 3% of production data by developing a novel intent classification pipeline.\n- Conducted **>60 experiments** and trained >110 models to determine the most accurate methodology.\n- Experimented with knowledge transfer, unsupervised learning of sentence embeddings, multi-task learning, and contrastive losses in the context of transformers and support vector machines.",
-            "range": "May 2022 – Aug 2022"
+            "summary": "- Developing an open-source library for building **voice-based LLM applications**.",
+            "range": "May 2023 – Aug 2023"
         },
         {
-            "title": "Undergraduate Student Researcher @ [CUAI](https://cuai.github.io)",
-            "subtitle": "Machine Learning Research and Education at Cornell University",
-            "summary": "- Overcame bias in paraphrase identification by using autoregressive transformers & out-of-distribution detection techniques: \"[GAPX: Generalized Autoregressive Paraphrase-Identification X](https://arxiv.org/abs/2210.01979).\" Published in **NeurIPS 2022 (3rd author)**. Advised by Dr. Sernam Lim at Meta AI.\n- Experimented with **zero-shot image classification** via OpenAI's CLIP model.",
-            "range": "Sep 2021 – May 2022"
+            "title": "Undergraduate Researcher @ [Cornell](https://cornell.edu)",
+            "subtitle": "Machine Learning and Artificial Intelligence Research",
+            "summary": "- As a **sophomore**, researched [unsupervised object discovery](https://github.com/HHousen/object-discovery-pytorch) and the scaling capabilities of reinforcement learning models (such as [DreamerV3](https://danijar.com/project/dreamerv3/)) with [Dr. Ellis](https://www.cs.cornell.edu/~ellisk/). \n- As a **freshman**, overcame bias in paraphrase identification by using autoregressive transformers & out-of-distribution detection techniques: \"[GAPX: Generalized Autoregressive Paraphrase-Identification X](https://arxiv.org/abs/2210.01979).\" Published in **NeurIPS 2022 (3rd author)**. Advised by Dr. Sernam Lim at Meta AI. Also, experimented with **zero-shot image classification** via OpenAI's CLIP model.",
+            "range": "Sep 2021 – Present"
+        },
+        {
+            "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
+            "subtitle": "Improved Ada's intent classification pipeline",
+            "summary": "- **Improved Ada's production accuracy by 8%** using only 3% of production data by developing a novel intent classification pipeline.\n- Conducted **>60 experiments** and trained >110 models to determine the most accurate methodology.\n- Experimented with knowledge transfer, unsupervised learning of sentence embeddings, multi-task learning, and contrastive losses in the context of transformers and support vector machines.",
+            "range": "May 2022 – Aug 2022"
         },
         {
             "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
