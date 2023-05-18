@@ -10,7 +10,7 @@ resources:
 - name: "example"
   src: "sa_clevr6_example.png"
 link: "https://github.com/HHousen/object-discovery-pytorch"
-weight: 108
+weight: 103
 sitemap:
   priority : 0.8
 ---
