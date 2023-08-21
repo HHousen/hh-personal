@@ -16,9 +16,9 @@ enableGitInfo = true
   profileImage = "media/hh-logo.png"
   gitCommitPrefix = "https://github.com/HHousen/hh-personal"
   email = "hayden@haydenhousen.com"
-  description = "A logical and detail-oriented junior at Cornell University studying computer science. Currently, researching AI song generation and an ML/SWE intern at Vocode. Previously, an intern on the Machine Learning Team at Ada Support."
+  description = "A logical and detail-oriented junior at Cornell University studying computer science. Currently, researching AI song generation. Previously, a software engineering intern at Vocode (YC W23) and an intern on the Machine Learning Team at Ada Support."
   favicon = "media/favicon.png"
-  resumePDF = "media/Hayden_Housen_Resume_v4.4.pdf"
+  resumePDF = "media/Hayden_Housen_Resume_v4.5.pdf"
   # what sections
   showSkills = true
   showProjects = true

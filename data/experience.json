@@ -1,9 +1,9 @@
 {
     "experiences": [
         {
-            "title": "ML/SWE Intern @ [Vocode](https://vocode.dev)",
-            "subtitle": "",
-            "summary": "- Developing an open-source library for building **voice-based LLM applications**.",
+            "title": "Software Engineering Intern @ [Vocode](https://vocode.dev) (YC W23)",
+            "subtitle": "Open-source tool to build voice-based LLM applications",
+            "summary": "- Collaborated directly with founders as a pivotal engineer to shape Vocode's pioneering AI-driven call automation solutions.\n- Demonstrated versatility as a fullstack developer by building the FastAPI backend, open-source self-hosted service (Python and asyncio), and frontend dashboard (Next.js), while also resolving issues and reviewing pull requests from the community.\n- Evaluated the latencies of multiple LLMs, speech-to-text APIs, and synthesis services to enhance Vocode's performance.",
             "range": "May 2023 – Aug 2023"
         },
         {
