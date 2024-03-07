@@ -1,6 +1,12 @@
 {
     "experiences": [
         {
+            "title": "Co-founder and CTO @ [Sonauto](https://sonauto.ai) (YC W24)",
+            "subtitle": "AI Music Generator/Editor",
+            "summary": "Sonauto is an AI music editor that turns prompts, lyrics, or melodies into full songs in any style. For example, in a few minutes with Sonauto you can make an original birthday song for your friend, sung by Frank Sinatra.",
+            "range": "Jan 2024 – Present"
+        },
+        {
             "title": "Software Engineering Intern @ [Vocode](https://vocode.dev) (YC W23)",
             "subtitle": "Open-source tool to build voice-based LLM applications",
             "summary": "- Collaborated directly with founders as a pivotal engineer to shape Vocode's pioneering AI-driven call automation solutions.\n- Demonstrated versatility as a fullstack developer by building the FastAPI backend, open-source self-hosted service (Python and asyncio), and frontend dashboard (Next.js), while also resolving issues and reviewing pull requests from the community.\n- Evaluated the latencies of multiple LLMs, speech-to-text APIs, and synthesis services to enhance Vocode's performance.",
