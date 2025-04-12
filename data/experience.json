@@ -4,7 +4,7 @@
             "title": "Co-founder and CTO @ [Sonauto](https://sonauto.ai) (YC W24)",
             "subtitle": "AI Music Generator/Editor",
             "summary": "Sonauto is an AI music editor that turns prompts, lyrics, or melodies into full songs in any style. For example, in a few minutes with Sonauto you can make an original birthday song for your friend, sung by Frank Sinatra.",
-            "range": "Jan 2024 – Present"
+            "range": "Jan 2023 – Present"
         },
         {
             "title": "Software Engineering Intern @ [Vocode](https://vocode.dev) (YC W23)",
@@ -16,7 +16,7 @@
             "title": "Undergraduate Researcher @ [Cornell](https://cornell.edu)",
             "subtitle": "Machine Learning and Artificial Intelligence Research",
             "summary": "- As a **sophomore**, researched [unsupervised object discovery](https://github.com/HHousen/object-discovery-pytorch) and the scaling capabilities of reinforcement learning models (such as [DreamerV3](https://danijar.com/project/dreamerv3/)) with [Dr. Ellis](https://www.cs.cornell.edu/~ellisk/). \n- As a **freshman**, overcame bias in paraphrase identification by using autoregressive transformers & out-of-distribution detection techniques: \"[GAPX: Generalized Autoregressive Paraphrase-Identification X](https://arxiv.org/abs/2210.01979).\" Published in **NeurIPS 2022 (3rd author)**. Advised by Dr. Sernam Lim at Meta AI. Also, experimented with **zero-shot image classification** via OpenAI's CLIP model.",
-            "range": "Sep 2021 – Present"
+            "range": "Sep 2021 – May 2023"
         },
         {
             "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
