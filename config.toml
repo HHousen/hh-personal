@@ -1,6 +1,6 @@
 baseURL = "https://haydenhousen.com/"
 languageCode = "en-us"
-title = "Hayden Housen - Student Developer"
+title = "Hayden Housen"
 theme = "resume"
 disableKinds = ["RSS"]
 enableRobotsTXT = true
