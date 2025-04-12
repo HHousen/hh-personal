@@ -2,7 +2,7 @@
 title: "TransformerSum"
 date: 2020-07-16T23:01:35-04:00
 featured: true
-description: "Models to perform neural summarization (extractive and abstractive) using machine learning transformers."
+description: "Models to perform neural summarization (extractive and abstractive) using machine learning transformers. 400+ stars on GitHub."
 tags: ["Machine Learning"]
 resources:
 - name: "image"
