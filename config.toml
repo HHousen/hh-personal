@@ -22,7 +22,7 @@ enableGitInfo = true
   # what sections
   showSkills = true
   showProjects = true
-  tags = ["DevOps", "Web Development", "Machine Learning", "App Development", "Cyber Security"]
+  tags = ["DevOps", "Web Development", "Machine Learning", "Cyber Security"]
   showContributions = false
   showPublications = false
   showExperience = true
