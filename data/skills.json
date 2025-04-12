@@ -8,12 +8,12 @@
                     "icon": "python-plain"
                 },
                 {
-                    "name": "Java",
-                    "icon": "java-plain"
+                    "name": "JavaScript/TypeScript",
+                    "icon": "javascript-plain"
                 },
                 {
-                    "name": "JavaScript",
-                    "icon": "javascript-plain"
+                    "name": "Java",
+                    "icon": "java-plain"
                 },
                 {
                     "name": "HTML",
@@ -49,7 +49,7 @@
                     "icon": "pytorch-original"
                 },
                 {
-                    "name": "transformers (BERT)",
+                    "name": "transformers (GPT)",
                     "icon": "code"
                 },
                 {
@@ -82,6 +82,22 @@
             "grouping": "Web",
             "skills": [
                 {
+                    "name": "React",
+                    "icon": "react-original"
+                },
+                {
+                    "name": "Next.js",
+                    "icon": "nextdotjs"
+                },
+                {
+                    "name": "Tailwind CSS",
+                    "icon": "tailwindcss"
+                },
+                {
+                    "name": "FastAPI",
+                    "icon": "fastapi-plain"
+                },
+                {
                     "name": "Flask",
                     "icon": "flask-original"
                 },
@@ -94,16 +110,8 @@
                     "icon": "bootstrap-plain"
                 },
                 {
-                    "name": "jQuery",
-                    "icon": "jquery-plain"
-                },
-                {
                     "name": "web scraping",
                     "icon": "code"
-                },
-                {
-                    "name": "API design",
-                    "icon": "fastapi-plain"
                 }
             ]
         },
@@ -111,24 +119,32 @@
             "grouping": "DB and DevOps",
             "skills": [
                 {
-                    "name": "MongoDB",
-                    "icon": "mongodb-plain"
-                },
-                {
                     "name": "PostgreSQL",
                     "icon": "postgresql-plain"
-                },
-                {
-                    "name": "MySQL",
-                    "icon": "mysql-plain"
                 },
                 {
                     "name": "Docker",
                     "icon": "docker-plain"
                 },
                 {
+                    "name": "Supabase",
+                    "icon": "supabase"
+                },
+                {
+                    "name": "Azure",
+                    "icon": "azure"
+                },
+                {
                     "name": "AWS",
                     "icon": "amazonaws"
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": "mongodb-plain"
+                },
+                {
+                    "name": "MySQL",
+                    "icon": "mysql-plain"
                 },
                 {
                     "name": "Firebase",
