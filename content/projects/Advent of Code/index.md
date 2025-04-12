@@ -13,6 +13,6 @@ sitemap:
   priority : 0.8
 ---
 
-My solutions in Python to at least half a decade of Advent of Code (AoC) puzzles (and maybe more depending on when I last updated this). Earned all 50 stars for each year (250 stars total!).
+My solutions in Python to at least half a decade of Advent of Code (AoC) puzzles (and maybe more depending on when I last updated this). Earned all 50 stars for each year (250 stars total!). That's 125 days in December where I did one puzzle a day.
 
 "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other." - [AoC About Page](https://adventofcode.com/about)
