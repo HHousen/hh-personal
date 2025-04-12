@@ -20,5 +20,3 @@ Impersonate your friends on Discord using the latest research in AI and machine 
 The idea and first version of GPT Impostor for Discord were created at the [BigRed//Hacks](https://bigredhacks.com/) hackathon at Cornell University by [Hayden Housen](https://haydenhousen.com/), [Ryan Tremblay](https://devpost.com/rzt4), [Carlton Cassedy](https://devpost.com/clc339), and [Yusef Rahimzada](https://devpost.com/yr238). Hayden created the current version by rewriting [the bot](https://github.com/HHousen/GPT-Impostor) from scratch and publishing [the website](https://gptimpostor.haydenhousen.com).
 
 **Check out [the website](https://gptimpostor.haydenhousen.com) for more information.**
-
-[![Add the bot to your Discord server!](https://raw.githubusercontent.com/HHousen/GPT-Impostor/master/add-to-discord_button.png)](https://gptimpostor.haydenhousen.com)
