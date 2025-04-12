@@ -16,7 +16,7 @@ enableGitInfo = true
   profileImage = "media/hh-logo.png"
   gitCommitPrefix = "https://github.com/HHousen/hh-personal"
   email = "hayden@haydenhousen.com"
-  description = "Co-founder and CTO at Sonauto (YC W24). Studied computer science at Cornell University. Previously, a software engineering intern at Vocode (YC W23) and an intern on the Machine Learning Team at Ada."
+  description = "Co-founder at Sonauto (YC W24). Studied computer science at Cornell University. Previously, a software engineering intern at Vocode (YC W23) and an intern on the Machine Learning Team at Ada."
   favicon = "media/favicon.png"
   resumePDF = "media/Hayden_Housen_Resume_v4.5.pdf"
   # what sections
