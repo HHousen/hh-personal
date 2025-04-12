@@ -2,7 +2,7 @@
 title: "Personal Server"
 date: 2019-04-10T19:31:52-04:00
 featured: true
-description: "I maintain a person server where I self-host applications such as Nextcloud, Guacamole, and more."
+description: "I maintain a personal server where I self-host applications such as Nextcloud, Guacamole, and more."
 tags: ["DevOps"]
 resources:
 - name: "image"
