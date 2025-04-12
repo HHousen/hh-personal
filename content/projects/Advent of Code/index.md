@@ -1,6 +1,6 @@
 ---
 title: "Advent of Code"
-date: 2021-03-11T22:13:24-05:00
+date: 2024-12-29T22:13:24-05:00
 featured: true
 description: "My Python solutions to 4+ years of Advent of Code puzzles."
 tags: []

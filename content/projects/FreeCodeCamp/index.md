@@ -1,6 +1,6 @@
 ---
 title: "FreeCodeCamp Collection"
-date: 2018-12-31T14:00:18-05:00
+date: 2017-09-30T14:00:18-05:00
 featured: true
 description: "Completed about 400 hours of coursework. Built 10 front-end projects. Completed 347 coding challenges."
 tags: ["Web Development"]

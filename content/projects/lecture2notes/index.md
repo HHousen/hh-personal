@@ -3,7 +3,7 @@ title: "lecture2notes"
 date: 2019-11-17T11:39:16-05:00
 featured: true
 description: "For this project, I was named a top 300 Regeneron STS scholar. Lecture2notes is a state-of-the-art system to summarize classroom lectures using machine learning."
-tags: ["Machine Learning"]
+tags: ["Machine Learning", "Web Development", "DevOps"]
 resources:
 - name: "image"
   src: "research.png"
