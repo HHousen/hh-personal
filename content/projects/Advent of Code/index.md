@@ -2,22 +2,17 @@
 title: "Advent of Code"
 date: 2021-03-11T22:13:24-05:00
 featured: true
-description: "My solutions to the Advent of Code 2020, 2021, and 2022 puzzles. Completed all challenges. Solutions written in Python."
+description: "My Python solutions to 4+ years of Advent of Code puzzles."
 tags: []
 resources:
 - name: "image"
   src: "aoc.png"
+link: https://github.com/HHousen/advent-of-code
 weight: 107
 sitemap:
   priority : 0.8
 ---
 
-My solutions to the Advent of Code (AoC) [2020](https://adventofcode.com/2020), [2021](https://adventofcode.com/2021), and [2022](https://adventofcode.com/2021) puzzles. Earned all 50 stars. Solutions written in Python.
+My solutions in Python to at least half a decade of Advent of Code (AoC) puzzles (and maybe more depending on when I last updated this). Earned all 50 stars for each year (250 stars total!).
 
 "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other." - [AoC About Page](https://adventofcode.com/about)
-
-Solutions by year:
-
-* 2020 solutions: <https://github.com/HHousen/advent-of-code-2020>
-* 2021 solutions: <https://github.com/HHousen/advent-of-code-2021>
-* 2022 solutions: <https://github.com/HHousen/advent-of-code-2022>
