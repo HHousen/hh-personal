@@ -12,7 +12,7 @@ enableGitInfo = true
 [params]
   firstName = "Hayden"
   lastName = "Housen"
-  address = "Ithaca, NY"
+  address = "San Francisco, CA"
   profileImage = "media/hh-logo.png"
   gitCommitPrefix = "https://github.com/HHousen/hh-personal"
   email = "hayden@haydenhousen.com"
@@ -41,11 +41,6 @@ enableGitInfo = true
   name = "LinkedIn"
   icon = "icon-linkedin-square"
   link = "https://linkedin.com/in/HHousen"
-
-[[params.social]]
-  name = "Twitter"
-  icon = "icon-twitter"
-  link = "https://twitter.com/thehaydenhousen"
 
 [[params.social]]
   name = "Email"
