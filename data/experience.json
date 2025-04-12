@@ -47,18 +47,6 @@
             "subtitle": "Ethical Hacking Skills",
             "summary": "- Placed **23rd (top 0.7%)** in 2021 National Cyber Scholarship Competition.\n- Placed in **top 3%** on average in PicoCTF [2019](/projects/picoctf-2019/)/[2021](/projects/picoctf-2021/)/[2022](/projects/picoctf-2022/) competitions. Wrote technical guides with **over 94,000 views** to document my learning and help others.\n- Continuously practicing cybersecurity principles by solving HackTheBox.com machines and [publishing writeups](https://htb.haydenhousen.com/).\n- Learned ethical hacking skills including web exploitation, cryptography, reverse engineering, and binary exploitation. Worked with popular tools included in Kali Linux.",
             "range": "Sep 2019 – Present"
-        },
-        {
-            "title": "Fast.ai",
-            "subtitle": "Deep Learning Fundamentals",
-            "summary": "- Developed an understanding for advanced deep learning concepts by building several near state-of-the-art models and writing many machine learning functions from scratch.\n- Built [AI Respiratory Doctor](/projects/ai-respiratory-doctor/).",
-            "range": "Sep 2018 – Jul 2019"
-        },
-        {
-            "title": "FreeCodeCamp",
-            "subtitle": "Awarded Front End Development Certificate",
-            "summary": "- Completed about 400 hours of coursework.\n- Built 10 front-end projects ([available on CodePen](https://codepen.io/collection/DyVKZM)).\n- Completed 347 coding challenges.",
-            "range": "Feb 2017 – Sep 2017"
         }
     ]
 }
