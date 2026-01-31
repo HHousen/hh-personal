@@ -2,7 +2,7 @@
 title: "Advent of Code"
 date: 2025-12-29T22:13:24-05:00
 featured: true
-description: "My Python solutions to 4+ years of Advent of Code puzzles."
+description: "My Python solutions to 6+ years of Advent of Code puzzles."
 tags: []
 resources:
 - name: "image"
